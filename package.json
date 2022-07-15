@@ -1,0 +1,9 @@
+{
+  "name": "java-fun",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+	  "build": "javac GraphicsFun.java",
+	  "start": "npm run build && java GraphicsFun"
+  }
+}
